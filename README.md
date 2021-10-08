@@ -197,7 +197,6 @@ From the [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/
 
 ```python
 >>> import this
-The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
